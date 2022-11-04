@@ -1,0 +1,23 @@
+[
+  {
+    "id" : "1",
+    "first_name" : "abed",
+    "last_name" : "ganteng",
+    "department" : "Teknik Menguli",
+    "email" : "abed@gmail.com"
+  },
+  {
+    "id" : "2",
+    "first_name" : "abed",
+    "last_name" : "keren",
+    "department" : "Teknik Ternak Lele",
+    "email" : "steven@gmail.com"
+  },
+  {
+    "id" : "2",
+    "first_name" : "abed",
+    "last_name" : "kullllbett",
+    "department" : "Teknik Mencintai Kamu ♥♥♥",
+    "email" : "sihite@gmail.com"
+  }
+]

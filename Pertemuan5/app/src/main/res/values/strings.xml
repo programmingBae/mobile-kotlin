@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pertemuan 5</string>
+    <string name="text_male">Male</string>
+    <string name="text_reading">reading</string>
+    <string name="text_sport">sport</string>
+    <string name="text_art">art</string>
+    <string name="action_select">Select Date</string>
+    <string name="action_open_second">Go to Second Activity</string>
+    <string-array name="faculties">
+        <item>Kedokteran</item>
+        <item>Teknik</item>
+        <item>Teknologi Informasi</item>
+    </string-array>
+</resources>
